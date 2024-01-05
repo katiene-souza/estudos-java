@@ -27,3 +27,7 @@ A linguagem Java é acompanhada por um abrangente Kit de Desenvolvimento, o qual
 Ela realiza a execução de sistemas desenvolvidos em Java e é utilizada pelo desenvolvedor durante o processo de criação de aplicações. No cenário em que um sistema é desenvolvido para um cliente, é essencial instalar a Java Virtual Machine (JVM) na máquina do cliente para assegurar a execução do aplicativo.
 
 A JVM aprimora a portabilidade do Java ao adotar uma abordagem híbrida, combinando técnicas de compilação e interpretação. Essa estratégia possibilita a execução da aplicação em diversos sistemas operacionais, eliminando a necessidade de recompilação ou ajustes. Um exemplo prático disso é:
+
+![Imagem de explicação do JVM](https://github.com/katiene-souza/estudos-java/assets/85809975/9350e025-79ef-4b76-9b3f-57fbe91551a6)
+
+O **Bytecode** é uma representação intermediária do código, compilada com a garantia de precisão e correção. Esse código é projetado para ser executado sobre uma Máquina Virtual Java (JVM), proporcionando a flexibilidade de funcionar em qualquer instância das máquinas virtuais disponíveis. Essa abordagem confere uma camada adicional de portabilidade, permitindo que os programas escritos em Java sejam executados em diversas plataformas sem a necessidade de recompilação, desde que haja uma JVM compatível disponível.
