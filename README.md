@@ -24,4 +24,6 @@ A linguagem Java é acompanhada por um abrangente Kit de Desenvolvimento, o qual
 
 ### JVM (Java Virtual Machine ou Máquina virtual Java)
 
-Ela executa sistemas em Java e é usada pelo desenvolvedor enquanto desenvolve aplicações, caso você esteja fazendo um sistema para um cliente, é necessário instalar o JVM na máquina do cliente para que o aplicativo seja executado
+Ela realiza a execução de sistemas desenvolvidos em Java e é utilizada pelo desenvolvedor durante o processo de criação de aplicações. No cenário em que um sistema é desenvolvido para um cliente, é essencial instalar a Java Virtual Machine (JVM) na máquina do cliente para assegurar a execução do aplicativo.
+
+A JVM aprimora a portabilidade do Java ao adotar uma abordagem híbrida, combinando técnicas de compilação e interpretação. Essa estratégia possibilita a execução da aplicação em diversos sistemas operacionais, eliminando a necessidade de recompilação ou ajustes. Um exemplo prático disso é:
