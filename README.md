@@ -20,7 +20,8 @@ Para se manter atualizado sobre as versões do Java, é possível consultar o si
 
 A linguagem Java é acompanhada por um abrangente Kit de Desenvolvimento, o qual deve ser baixado em conjunto com a instalação do Java. Sendo uma plataforma completa para desenvolvimento e execução, o Java inclui não apenas o essencial ambiente de execução, mas também um rico conjunto de Bibliotecas (API - Interfaces de Programação de Aplicações) que oferecem amplas funcionalidades prontas para serem utilizadas. Este ambiente de execução proporciona a capacidade fundamental para a execução de programas desenvolvidos na linguagem Java, tornando-a uma solução robusta e completa para a criação de aplicações diversas.
 
-
 ## JDK / JVM 
 
-## JVM ( Java Virtual Machine ou Máquina virtual Java)
+### JVM (Java Virtual Machine ou Máquina virtual Java)
+
+Ela executa sistemas em Java e é usada pelo desenvolvedor enquanto desenvolve aplicações, caso você esteja fazendo um sistema para um cliente, é necessário instalar o JVM na máquina do cliente para que o aplicativo seja executado
