@@ -22,8 +22,10 @@ A linguagem Java é acompanhada por um abrangente Kit de Desenvolvimento, o qual
 
 ## JDK / JVM 
 
-### JVM (Java Virtual Machine ou Máquina virtual Java)
+### JDK (Java Development Kit ou Kit de desenvolvimento Java) 
+O JDK (Java Development Kit) é um conjunto de ferramentas de desenvolvimento de software usado para desenvolver aplicações Java. Ele inclui diversas utilidades e recursos que são essenciais para a criação, compilação, depuração e execução de programas Java. O JDK fornece tudo o que é necessário para desenvolver aplicações Java, desde o código-fonte até a execução.
 
+### JVM (Java Virtual Machine ou Máquina virtual Java)
 Ela realiza a execução de sistemas desenvolvidos em Java e é utilizada pelo desenvolvedor durante o processo de criação de aplicações. No cenário em que um sistema é desenvolvido para um cliente, é essencial instalar a Java Virtual Machine (JVM) na máquina do cliente para assegurar a execução do aplicativo.
 
 A JVM aprimora a portabilidade do Java ao adotar uma abordagem híbrida, combinando técnicas de compilação e interpretação. Essa estratégia possibilita a execução da aplicação em diversos sistemas operacionais, eliminando a necessidade de recompilação ou ajustes. Um exemplo prático disso é:
