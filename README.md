@@ -28,7 +28,7 @@ O JDK (Java Development Kit) é um conjunto de ferramentas de desenvolvimento de
 ### JVM (Java Virtual Machine ou Máquina virtual Java)
 Ela realiza a execução de sistemas desenvolvidos em Java e é utilizada pelo desenvolvedor durante o processo de criação de aplicações. No cenário em que um sistema é desenvolvido para um cliente, é essencial instalar a Java Virtual Machine (JVM) na máquina do cliente para assegurar a execução do aplicativo.
 
-A JVM aprimora a portabilidade do Java ao adotar uma abordagem híbrida, combinando técnicas de compilação e interpretação. Essa estratégia possibilita a execução da aplicação em diversos sistemas operacionais, eliminando a necessidade de recompilação ou ajustes. Um exemplo prático disso é:
+O JVM aprimora a portabilidade do Java ao adotar uma abordagem híbrida, combinando técnicas de compilação e interpretação. Essa estratégia possibilita a execução da aplicação em diversos sistemas operacionais, eliminando a necessidade de recompilação ou ajustes. Um exemplo prático disso é:
 
 ![Imagem de explicação do JVM](https://github.com/katiene-souza/estudos-java/assets/85809975/9350e025-79ef-4b76-9b3f-57fbe91551a6)
 
