@@ -2,9 +2,9 @@
 
 ### Linguagem de alto nível vs. baixo nível
 
-As linguagens de alto nível são, em termos gerais, caracterizadas por uma sintaxe orientada para facilitar a compreensão humana. Isso as torna intuitivas, de fácil assimilação e aprendizado. Como linguaguem de alto nível, temos Java, C#, javascript e etc..
+As linguagens de alto nível, em linhas gerais, são caracterizadas por uma sintaxe que visa facilitar a compreensão humana, graças a um nível mais elevado de abstração. Essa característica torna tais linguagens intuitivas, de fácil assimilação e aprendizado. Exemplos notáveis de linguagens de alto nível incluem Java, C#, JavaScript, entre outras.
 
-Por outro lado, as linguagens de baixo nível são direcionadas para a compreensão da máquina, apresentando uma sintaxe mais complexa, com instruções mais diretas para o processador. A principal linguaguem de baixo nível é Assembly.
+Em contrapartida, as linguagens de baixo nível são desenvolvidas para a compreensão direta da máquina, apresentando uma sintaxe mais complexa que pode ser desafiadora para os humanos compreenderem. Elas possuem instruções mais diretas para o processador, priorizando a eficiência em detrimento da facilidade de leitura. Um exemplo proeminente de linguagem de baixo nível é o Assembly.
 
 ### Diferenças entre linguagem interpretada e compilada
 
