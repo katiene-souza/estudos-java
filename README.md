@@ -62,6 +62,18 @@ Como Java é uma linguagem fortemente tipada, as variáveis precisam ser declara
       ```java
         char sexo = 'F'; 
       ```
+  - `byte`: Armazena números inteiros pequenos.
+      ```java
+        byte numeroPequeno = 127;  
+      ```
+  - `short`: Armazena números inteiros curtos.
+      ```java
+        short numeroCurto = 32000;  
+      ```
+  - `long`: Armanzena números inteiros longos.
+      ```java
+        long numeroLongo = 1234567890L;  
+      ```
   - `boolean`: Armazena valores verdeiros e falsos.
       ```java
         boolean maiorDeIdade = false; 
@@ -71,8 +83,10 @@ Como Java é uma linguagem fortemente tipada, as variáveis precisam ser declara
       ```java
         String nome = 'Katiene Souza';  
       ```
-  -`Array:` Estruturas que armazenam conjuntos de elementos do mesmo tipo.
+  - `Array:` Estruturas que armazenam conjuntos de elementos do mesmo tipo.
     ```java
       int[] arrayNumeros = {1, 2, 3, 4, 5}; 
     ```
+  - `Classes e Objetos:` Java é uma linguagem orientada a objetos, e os programadores podem criar suas próprias classes e objetos. Mas, falaremos sobre isso mais tarde.
+  - 
   
