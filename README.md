@@ -45,17 +45,34 @@ O java é uma linguagem fortemente tipada, então a sintaxe para declarar variá
 ```
 #### tipos primitivos da linguagem Java
 Como Java é uma linguagem fortemente tipada, as variáveis precisam ser declaradas com um tipo específico, esses são os principais tipos:
-
-- `int`: Armazena um número inteiro
+- **Tipos Primitivos:** 
+  - `int`: Armazena um número inteiro
+      ```java
+        int idade = 21; 
+      ```
+  - `double`: Armazena números de ponto flutuante de dupla precisão e ocupa 64 bytes na memória.
+      ```java
+        double altura = 1.63353; 
+      ```
+  - `float`: Armazena números de ponto flutuante de precisão simples e ocupa 32 bytes na memória. Nota-se que é obrigatório adicionar o sufixo `f` para indicar que é um float.
+      ```java
+        float altura = 1.63f; 
+      ```
+  - `char`: Armaneza somente um caractere.
+      ```java
+        char sexo = 'F'; 
+      ```
+  - `boolean`: Armazena valores verdeiros e falsos.
+      ```java
+        boolean maiorDeIdade = false; 
+      ```
+- **Tipos de referência(Objetos):** Os tipos de referência são todos nomeados com a primeira letra maiúscula e é obrigatório. 
+  - `String`: Armazena sequência de caracteres.
+      ```java
+        String nome = 'Katiene Souza';  
+      ```
+  -`Array:` Estruturas que armazenam conjuntos de elementos do mesmo tipo.
     ```java
-      int idade = 21; 
-    ```
-- `double`: Armazena números de ponto flutuante de dupla precisão e ocupa 64 bytes na memória.
-    ```java
-      double altura = 1.63353; 
-    ```
-- `float`: Armazena números de ponto flutuante de precisão simples e ocupa 32 bytes na memória. Nota-se que é obrigatório adicionar o sufixo `f` para indicar que é um float.
-    ```java
-      float altura = 1.63f; 
+      int[] arrayNumeros = {1, 2, 3, 4, 5}; 
     ```
   
