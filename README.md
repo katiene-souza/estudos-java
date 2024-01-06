@@ -43,7 +43,7 @@ O java é uma linguagem fortemente tipada, então a sintaxe para declarar variá
 ```java
   <tipo> <nome> = <valor inicial>; // o valor inicial é opcional, mas o ponto e vírgula depois da declaração é obrigatória. 
 ```
-#### tipos primitivos da linguagem Java
+#### Tipos da linguagem Java
 Como Java é uma linguagem fortemente tipada, as variáveis precisam ser declaradas com um tipo específico, esses são os principais tipos:
 - **Tipos Primitivos:** 
   - `int`: Armazena um número inteiro
@@ -88,5 +88,4 @@ Como Java é uma linguagem fortemente tipada, as variáveis precisam ser declara
       int[] arrayNumeros = {1, 2, 3, 4, 5}; 
     ```
   - `Classes e Objetos:` Java é uma linguagem orientada a objetos, e os programadores podem criar suas próprias classes e objetos. Mas, falaremos sobre isso mais tarde.
-  - 
   
