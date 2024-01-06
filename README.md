@@ -11,6 +11,16 @@ Em contrapartida, as linguagens de baixo nível são desenvolvidas para a compre
 
 ### Diferenças entre linguagem interpretada e compilada
 
+### Diferenças de Sintaxe e Semântica 
+São dois conceitos muito importantes da programação, e eles descrevem aspectos diferentes do código fonte.
+
+1. **Sintaxe:**
+    - A sintaxe se refere à estrutura gramatical e às regras específicas de como você deve escrever o código em uma linguagem de programação, por exemplo: `if (idade > 18 console.log('Maior de idade');`, falta um parêntese de fechamento na condição do `if`, resultando em erro de sintaxe.
+2. **Semântica:**
+    - A semântica, por outro lado, está relacionada ao significado do código, ou seja, o que o código realmente faz, por exemplo, se você tentar dividir uma string por outra `("abc" / "def")`, a sintaxe pode estar correta, mas a semântica não faz sentido porque a divisão não é uma operação válida para strings.
+  
+Se a sintaxe não estiver correta, o código não funciona. No entanto, mesmo com uma sintaxe correta, problemas semânticos podem levar a resultados indesejados ou a programas que não fazem o que você espera. Então, ambos se tornam importantes para o desenvolvimento e "andam" juntos.
+
 ## Sobre a linguaguem Java
 Criada pela MicroSystem e desenvolvida em 1990 por James Gosling e sua equipe, em 2008 ela foi comprada pela Oracle. A intenção era criar uma linguagem de programação que fosse portátil, ou seja, capaz de ser executada em diferentes tipos de dispositivos, independentemente da arquitetura de hardware. Java é uma linguagem orientada a objetos, o que permite uma modelagem de software eficiente e modular. Ela pode ser interpretada por todos os sistemas operacionais e mantém compatibilidade com as versões anteriores, além disso a linguaguem Java é fortemente tipada.
 
