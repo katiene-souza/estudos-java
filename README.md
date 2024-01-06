@@ -37,4 +37,9 @@ O **Bytecode** é uma representação intermediária do código, compilada com a
 ## Conceitos básicos do Java
 
 ### Váriaveis 
-As variáveis atuam como "recipientes" essenciais para o armazenamento e manipulação de dados em programas de computador. Elas mantêm valores em regiões específicas da memória RAM, reservadas para armazenar dados durante a execução do programa. Esses valores podem ser posteriormente acessados por meio dos nomes atribuídos a cada variável, proporcionando uma maneira estruturada e eficiente de lidar com informações ao longo da execução do código.
+As variáveis atuam como "recipientes" essenciais para o armazenamento e manipulação de dados em programas de computador. Elas mantêm valores em regiões específicas da memória RAM, reservadas para armazenar dados durante a execução do programa. Esses valores podem ser posteriormente acessados por meio dos nomes atribuídos a cada variável, proporcionando uma maneira estruturada e eficiente de lidar com informações ao longo da execução do código. 
+
+O java é uma linguagem fortemente tipada, então a sintaxe para declarar variáveis é feita da seguinte forma: 
+```java
+  <tipo> <nome> = <valor inicial>; // o valor inicial é opcional, mas o ponto e vírgula depois da declaração é obrigatória. 
+```
