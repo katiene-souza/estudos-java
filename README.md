@@ -107,5 +107,7 @@ Como Java é uma linguagem fortemente tipada, as variáveis precisam ser declara
 - Escolha nomes consistentes e de acordo com o objetivo do código.
 - Use comentários para esclarecer (O uso é somente se for necessários, comentários excessivos podem poluir a leitura e entendimento do código).
 
-#### Processamento de dados em Java
+## Estrutura sequencial
+## Estrutura condional 
+## Estrutura repetitivas
 
