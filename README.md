@@ -108,6 +108,6 @@ Como Java é uma linguagem fortemente tipada, as variáveis precisam ser declara
 - Use comentários para esclarecer (O uso é somente se for necessários, comentários excessivos podem poluir a leitura e entendimento do código).
 
 ## Estrutura sequencial
-## Estrutura condional 
+## Estrutura condicional 
 ## Estrutura repetitivas
 
